@@ -5,27 +5,14 @@
 Me chamo Felipe Dantas, tenho 19 anos e sou natural 
 de Brasília-DF. Concluí o Curso Técnico em TI na ETB(Escola Técnica de Brasília), 
 com o curso técnico em informática. 
-Atualmente, estou cursando Cursos extras 
+Atualmente, estou fazendo Cursos extras e Bootcamps 
 para minha profissionalização e conhecimento. 
 Sou apaixonado por tecnologia, e aqui compartilho um pouco
 sobre meus projetos pessoais e estudos.
 
-<p align="left">
-    <a href="https://github.com/Dantass20?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Dantass20?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />       
-    </a>
-    <a href="https://github.com/Dantass20?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Dantass20?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dantasss/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dantass20)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__dantass._/)
 
 ---
 
@@ -93,20 +80,15 @@ sobre meus projetos pessoais e estudos.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DAntass20&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantass20&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  
+  <br/>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantass20&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantass20&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" 
   />
 
 </p>
